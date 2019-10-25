@@ -2,6 +2,7 @@
 # Makefile for svelte-example
 #
 .PHONY: usage edit build clean git
+VERSION=00.00.01
 #----------------------------------------------------------------------------------
 usage:
 	@echo "make [edit|build]"
@@ -27,7 +28,7 @@ git g:
 	@echo "make (git:g) [update|store]"
 git-update gu:
 	git add .
-	git commit -a -m "update contents"
+	git commit -a -m "$(VERSION): update contents"
 	git push
 git-store gs:
 	git config credential.helper store

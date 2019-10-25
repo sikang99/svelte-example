@@ -21,3 +21,5 @@ Svelte Programming Example
 ### Open Source
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Compile Svelte components with Rollup
+- [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
+
