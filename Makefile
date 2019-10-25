@@ -15,7 +15,13 @@ edit-history eh:
 	vi HISTORY.md
 #----------------------------------------------------------------------------------
 build b:
+	@echo "make (build) [example]"
 
+build-svelte bs:
+	git clone git@github.com:sveltejs/svelte.git
+	cd svelte && npm install && npm run build && npm run dev
+	cd svelte && npm run test
+	
 build-example be:
 	npx degit sveltejs/template svelte-login-form
 	cd svelte-login-form && npm install && npm run dev start

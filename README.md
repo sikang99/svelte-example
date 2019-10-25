@@ -11,12 +11,14 @@ Svelte Programming Example
 - 2019/07/01 [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
 - 2019/06/13 [Svelte 3 Tutorial for The Impatient (React) Developer](https://www.valentinog.com/blog/svelte/)
 - 2019/05/23 [Build and Deploy Realtime Svelte 3 Apps Using GraphQL](https://blog.hasura.io/build-and-deploy-svelte-js-3-apps-using-graphql/)
+- 2019/05/06 [Svelte 3 Front-End Framework Moves Reactivity into the JavaScript Language, Q&A with Rich Harris](https://www.infoq.com/news/2019/05/svelte-3-interview-rich-harris/)
 - 2019/03/19 [Why SvelteJS may be the best framework for new web devs](https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i)
 
 
 ### Information
 - [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps
-- [Svelte Native](https://svelte-native.technology/) - The Svelte Mobile Development Experience]
+- [Svelte Native](https://svelte-native.technology/) - The Svelte Mobile Development Experience
+- [Sapper](https://sapper.svelte.dev/) - The next small thing in web development
 - [The Svelte Handbook](https://www.freecodecamp.org/news/the-svelte-handbook/)
 
 
