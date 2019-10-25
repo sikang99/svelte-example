@@ -15,10 +15,10 @@ edit-history eh:
 	vi HISTORY.md
 #----------------------------------------------------------------------------------
 build b:
+
+build-example be:
 	npx degit sveltejs/template svelte-login-form
-	cd svelte-login-form
-	npm install
-	npm run dev start
+	cd svelte-login-form && npm install && npm run dev start
 #----------------------------------------------------------------------------------
 clean:
 	rm -f bin/*
