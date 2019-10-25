@@ -5,6 +5,7 @@ Svelte Programming Example
 ### History
 - 2019/10/23 [What I Like About Writing Styles with Svelte](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/)
 - 2019/10/16 [Svelte vs React: First impressions](https://medium.com/javascript-in-plain-english/svelte-vs-react-first-impression-1ce5d3ee6889)
+- 2019/08/29 [Svelte: Is This Next-Generation JavaScript Framework Production-Ready?](https://www.credera.com/blog/technology-solutions/svelte-is-this-next-generation-javascript-framework-production-ready/)
 - 2019/07/24 [Introduction to Svelte](https://daveceddia.com/svelte-intro/)
 - 2019/07/22 [Building a Svelte Chat App with Stream](https://getstream.io/blog/building-a-svelte-chat-app-with-stream/)
 - 2019/07/01 [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
