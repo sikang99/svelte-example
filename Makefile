@@ -21,13 +21,13 @@ build-svelte bs:
 	git clone git@github.com:sveltejs/svelte.git
 	cd svelte && npm install && npm run build && npm run dev
 	cd svelte && npm run test
-	
+
 build-example be:
-	npx degit sveltejs/template svelte-login-form
-	cd svelte-login-form && npm install && npm run dev start
+	npx degit sveltejs/template hello-world
+	cd hello-world && npm install && npm run dev start
 #----------------------------------------------------------------------------------
 clean:
-	rm -f bin/*
+	rm -rf hello-world
 	docker system prune --force
 #----------------------------------------------------------------------------------
 run r:

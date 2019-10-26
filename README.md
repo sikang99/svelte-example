@@ -20,11 +20,13 @@ Svelte Programming Example
 - [Svelte Native](https://svelte-native.technology/) - The Svelte Mobile Development Experience
 - [Sapper](https://sapper.svelte.dev/) - The next small thing in web development
 - [The Svelte Handbook](https://www.freecodecamp.org/news/the-svelte-handbook/)
+- [Svelte - Web Development Make Easier](http://mvolkmann.github.io/programming/svelte-article/svelte-article.pdf)
 
 
 ### Open Source
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/realworld](https://github.com/sveltejs/realworld) - Svelte/Sapper implementation of the RealWorld app
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Compile Svelte components with Rollup
 - [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
-
+- [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework
