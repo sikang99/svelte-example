@@ -22,9 +22,12 @@ build-svelte bs:
 	cd svelte && npm install && npm run build && npm run dev
 	cd svelte && npm run test
 
-build-example be:
+build-hello bh:
 	npx degit sveltejs/template hello-world
 	cd hello-world && npm install && npm run dev start
+
+build-again ba:
+	npm run build
 #----------------------------------------------------------------------------------
 clean:
 	rm -rf hello-world
