@@ -26,7 +26,7 @@ Svelte Programming Example
 - [rollup.js](https://rollupjs.org) - module bundler for javascript
     - [rollup/awesome](https://github.com/rollup/awesome) - Delightful Rollup Plugins, Packages, and Resources
     - [How to Bundle JavaScript With Rollup — Step-by-Step Tutorial](https://lengstorf.com/learn-rollup-js/)
-    
+
 
 ### Open Source
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
@@ -50,3 +50,4 @@ Svelte Programming Example
 
 ### Miscellaneous
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+- [EMOJI cheatsheet](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
