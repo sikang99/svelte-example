@@ -1,5 +1,5 @@
 ## svelte-example
-Svelte Programming Example
+***Svelte 3*** Programming Example
 Thanks [Rich Harris](https://github.com/Rich-Harris)
 
 
