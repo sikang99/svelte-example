@@ -38,6 +38,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
+    - [Rich-Harris/svelte-gl-demo](https://github.com/Rich-Harris/svelte-gl-demo) - A very basic Svelte GL scene
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - Svelte/Sapper implementation of the RealWorld app
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Compile Svelte components with Rollup
 - [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
@@ -45,7 +46,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 
 
 ### Open Source (examples)
-- [ ] [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework (old)
+- [ ] [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework (old) 😓
 - [x] [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte) 😃
 
 
