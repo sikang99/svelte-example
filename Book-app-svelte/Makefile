@@ -1,12 +1,22 @@
 #
-# Makefile for Svelte
+# Makefile for Svelte app
 #
 usage:
-	@echo "usage: make [build|run]"
+	@echo "usage: make [install|build|run]"
+
+install i:
+	npm install
 
 build b:
 	npm run build
 	
-run r:
+run r: run-start
+
+run-dev rd:
+	npm run dev
+
+run-start rs:
 	npm run start
 
+run-start-dev rsd:
+	npm run start dev
