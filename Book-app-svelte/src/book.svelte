@@ -33,7 +33,7 @@ p{
 
 <div>
     <h1> {bookTitle} </h1>
-    <h2> {bookPages}</h2>
-    <p> {bookDescription}</p>
+    <h2> {bookPages} </h2>
+    <p> {bookDescription} </p>
     <Button on:click={purchaseBook}>Buy</Button>
 </div>

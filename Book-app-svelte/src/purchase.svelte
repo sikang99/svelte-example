@@ -8,7 +8,6 @@ ul{
     margin: 1rem;
     padding:0;
 }
-
 li{
     font-size:1.5rem;
     margin: 1rem;

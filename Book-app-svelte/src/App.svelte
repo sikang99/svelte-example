@@ -19,7 +19,6 @@ function addBook(){
 		title : title,
 		pages : pages,
 		description: description
-
 	};
 	books = books.concat(newBook)
 }
