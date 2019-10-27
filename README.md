@@ -1,5 +1,6 @@
 ## svelte-example
 Svelte Programming Example
+Thanks [Rich Harris](https://github.com/Rich-Harris)
 
 
 ### History
@@ -23,6 +24,7 @@ Svelte Programming Example
 - [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps: [REPL](https://svelte.dev/repl)
 - [Svelte Native](https://svelte-native.technology/) - The Svelte Mobile Development Experience
 - [Sapper](https://sapper.svelte.dev/) - The next small thing in web development
+- [Svelte GL](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
 - [The Svelte Handbook](https://www.freecodecamp.org/news/the-svelte-handbook/)
 - [Svelte - Web Development Make Easier](http://mvolkmann.github.io/programming/svelte-article/svelte-article.pdf)
 - [rollup.js](https://rollupjs.org) - module bundler for javascript
@@ -34,6 +36,8 @@ Svelte Programming Example
 
 ### Open Source
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
+- [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - Svelte/Sapper implementation of the RealWorld app
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Compile Svelte components with Rollup
 - [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
