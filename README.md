@@ -32,6 +32,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
     - [How to Bundle JavaScript With Rollup — Step-by-Step Tutorial](https://lengstorf.com/learn-rollup-js/)
     - [Rollup.js cheatsheet](https://devhints.io/rollup)
 - [**Getting Started with Svelte 3**](https://alligator.io/svelte/getting-started-with-svelte/)
+- [The Svelte 3 Quickstart Tutorial](https://codingthesmartway.com/the-svelte-3-quickstart-tutorial/)
 
 
 ### Open Source
