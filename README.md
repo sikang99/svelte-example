@@ -23,6 +23,7 @@ Svelte Programming Example
 - [Sapper](https://sapper.svelte.dev/) - The next small thing in web development
 - [The Svelte Handbook](https://www.freecodecamp.org/news/the-svelte-handbook/)
 - [Svelte - Web Development Make Easier](http://mvolkmann.github.io/programming/svelte-article/svelte-article.pdf)
+- [rollup.js](https://rollupjs.org) - module bundler for javascript
 
 
 ### Open Source
@@ -45,5 +46,5 @@ Svelte Programming Example
 - surge: 0.21.3
 
 
-### Miscelleous
+### Miscellaneous
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
