@@ -24,6 +24,7 @@ Svelte Programming Example
 - [The Svelte Handbook](https://www.freecodecamp.org/news/the-svelte-handbook/)
 - [Svelte - Web Development Make Easier](http://mvolkmann.github.io/programming/svelte-article/svelte-article.pdf)
 - [rollup.js](https://rollupjs.org) - module bundler for javascript
+    - [rollup/awesome](https://github.com/rollup/awesome) - Delightful Rollup Plugins, Packages, and Resources
 
 
 ### Open Source
