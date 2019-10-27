@@ -39,3 +39,5 @@ Svelte Programming Example
 - node: 12.8.0
 - npx/npm: 6.11.3
 - [degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
+- now: 16.4.3
+- surge: 0.21.3
