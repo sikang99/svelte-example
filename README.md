@@ -20,7 +20,7 @@ Svelte Programming Example
 
 
 ### Information
-- [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps
+- [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps: [REPL](https://svelte.dev/repl)
 - [Svelte Native](https://svelte-native.technology/) - The Svelte Mobile Development Experience
 - [Sapper](https://sapper.svelte.dev/) - The next small thing in web development
 - [The Svelte Handbook](https://www.freecodecamp.org/news/the-svelte-handbook/)
