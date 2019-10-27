@@ -3,6 +3,7 @@ export let bookTitle;
 export let bookPages;
 export let bookDescription;
 </script>
+
 <style>
 div{
     margin: 1rem;
