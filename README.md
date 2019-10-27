@@ -43,3 +43,7 @@ Svelte Programming Example
 - [degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - now: 16.4.3
 - surge: 0.21.3
+
+
+### Miscelleous
+- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
