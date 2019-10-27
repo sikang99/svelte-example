@@ -31,7 +31,9 @@ Svelte Programming Example
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Compile Svelte components with Rollup
 - [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
-- [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework
+
+### Open Source (examples)
+- [ ] [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework
 - [x] [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte) :+1
 
 
