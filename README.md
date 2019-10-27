@@ -34,7 +34,7 @@ Svelte Programming Example
 
 ### Open Source (examples)
 - [ ] [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework
-- [x] [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte)
+- [x] [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte) 😃
 
 
 ### Versions
