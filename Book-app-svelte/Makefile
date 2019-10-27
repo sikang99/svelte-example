@@ -2,7 +2,7 @@
 # Makefile for Svelte app
 #
 usage:
-	@echo "usage: make [install|build|run]"
+	@echo "usage: make [install|build|run|web]"
 
 install i:
 	npm install
@@ -20,3 +20,6 @@ run-start rs:
 
 run-start-dev rsd:
 	npm run start dev
+
+web w:
+	open http://localhost:5000
