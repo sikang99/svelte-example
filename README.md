@@ -11,6 +11,7 @@ Svelte Programming Example
 - 2019/08/05 [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
 - 2019/07/24 [Introduction to Svelte](https://daveceddia.com/svelte-intro/)
 - 2019/07/22 [Building a Svelte Chat App with Stream](https://getstream.io/blog/building-a-svelte-chat-app-with-stream/)
+- 2019/07/02 [Supercharge Your Svelte State Management with Akita](https://netbasal.com/supercharge-your-svelte-state-management-with-akita-f1f9de5ef43d)
 - 2019/07/01 [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
 - 2019/06/13 [Svelte 3 Tutorial for The Impatient (React) Developer](https://www.valentinog.com/blog/svelte/)
 - 2019/05/23 [Build and Deploy Realtime Svelte 3 Apps Using GraphQL](https://blog.hasura.io/build-and-deploy-svelte-js-3-apps-using-graphql/)
@@ -27,6 +28,7 @@ Svelte Programming Example
 - [rollup.js](https://rollupjs.org) - module bundler for javascript
     - [rollup/awesome](https://github.com/rollup/awesome) - Delightful Rollup Plugins, Packages, and Resources
     - [How to Bundle JavaScript With Rollup — Step-by-Step Tutorial](https://lengstorf.com/learn-rollup-js/)
+    - [Rollup.js cheatsheet](https://devhints.io/rollup)
 
 
 ### Open Source
