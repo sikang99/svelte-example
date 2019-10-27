@@ -32,7 +32,7 @@ Svelte Programming Example
 - [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 - [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework
-- [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte) [x]
+- [x] [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte) \[x]
 
 
 ### Versions
