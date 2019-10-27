@@ -33,7 +33,7 @@ Svelte Programming Example
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
 ### Open Source (examples)
-- [o] [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework
+- [ ] [charpeni/svelte-example](https://github.com/charpeni/svelte-example) - Some examples to test the Svelte Framework
 - [x] [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte)
 
 
