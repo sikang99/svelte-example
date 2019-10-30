@@ -7,6 +7,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - 2019/10/23 [What I Like About Writing Styles with Svelte](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/)
 - 2019/10/21 [Working with events in Svelte](https://flaviocopes.com/svelte-events/)
 - 2019/10/16 [Svelte vs React: First impressions](https://medium.com/javascript-in-plain-english/svelte-vs-react-first-impression-1ce5d3ee6889)
+- 2019/09/29 [SvelteJS(스벨트) - 새로운 개념의 프론트엔드 프레임워크(updated)](https://heropy.blog/2019/09/29/svelte/)
 - 2019/09/24 [How to build a simple Svelte JS app](https://blog.logrocket.com/how-to-build-a-simple-svelte-js-app/) with example ☑️
     - [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte)
 - 2019/08/29 [Svelte: Is This Next-Generation JavaScript Framework Production-Ready?](https://www.credera.com/blog/technology-solutions/svelte-is-this-next-generation-javascript-framework-production-ready/)
@@ -22,6 +23,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - 2019/05/23 [Build and Deploy Realtime Svelte 3 Apps Using GraphQL](https://blog.hasura.io/build-and-deploy-svelte-js-3-apps-using-graphql/)
 - 2019/05/15 [Derived Stores With Svelte](https://tj.ie/derived-stores-with-svelte/)
 - 2019/05/06 [Svelte 3 Front-End Framework Moves Reactivity into the JavaScript Language, Q&A with Rich Harris](https://www.infoq.com/news/2019/05/svelte-3-interview-rich-harris/)
+- 2019/04/26 [Svelte Web component framework](https://forum.safedev.org/t/svelte-web-component-framework/2483)
 - 2019/03/19 [Why SvelteJS may be the best framework for new web devs](https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i)
 
 
@@ -38,6 +40,12 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
     - [Rollup.js cheatsheet](https://devhints.io/rollup)
 - [**Getting Started with Svelte 3**](https://alligator.io/svelte/getting-started-with-svelte/)
 - [The Svelte 3 Quickstart Tutorial](https://codingthesmartway.com/the-svelte-3-quickstart-tutorial/)
+- [All the Svelte tutorials](https://flaviocopes.com/tags/svelte/)
+- [Svelte-grid](https://svelte-grid.now.sh/)
+    - [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte
+- [**Svelte Status**](http://www.sveltestatus.com/)
+- [The Top 33 Svelte Open Source Projects](https://awesomeopensource.com/projects/svelte)
+- [Best of JavaScript Weekly Rankings](https://weekly.bestofjs.org/)
 
 
 ### Open Source
@@ -56,6 +64,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [x] [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte) 😃
 - [ ] [erzr/jss-svelte](https://github.com/erzr/jss-svelte) - Sample Svelte powered Sitecore JavaScript Services application
 - [x] [theWebalyst/safetutorial-svelte](https://github.com/theWebalyst/safetutorial-svelte) - SAFE Network Tutorial App using Svelte
+- [ ] [Swizec/svelte-marvel-movie-timeline](https://github.com/Swizec/svelte-marvel-movie-timeline) - A simple Marvel movie timeline built with Svelte 😃
 
 
 ### Versions
@@ -64,6 +73,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - now: 16.4.3
 - surge: 0.21.3
+- svelre 3.12.1
 
 
 ### Miscellaneous
