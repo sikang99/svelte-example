@@ -65,6 +65,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [ ] [erzr/jss-svelte](https://github.com/erzr/jss-svelte) - Sample Svelte powered Sitecore JavaScript Services application
 - [x] [theWebalyst/safetutorial-svelte](https://github.com/theWebalyst/safetutorial-svelte) - SAFE Network Tutorial App using Svelte
 - [ ] [Swizec/svelte-marvel-movie-timeline](https://github.com/Swizec/svelte-marvel-movie-timeline) - A simple Marvel movie timeline built with Svelte 😃
+- [ ] [Svelte - Simplicity is best](https://dev.to/dbshanks/svelte-simplicity-is-best-1e5h)
 
 
 ### Versions
