@@ -12,6 +12,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
     - [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte)
 - 2019/08/29 [Svelte: Is This Next-Generation JavaScript Framework Production-Ready?](https://www.credera.com/blog/technology-solutions/svelte-is-this-next-generation-javascript-framework-production-ready/)
 - 2019/08/05 [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
+- 2019/07/27 [Use Svelte with SASS/SCSS in VSCode](https://daveceddia.com/svelte-with-sass-in-vscode/)
 - 2019/07/24 [Introduction to Svelte](https://daveceddia.com/svelte-intro/)
 - 2019/07/22 [Building a Svelte Chat App with Stream](https://getstream.io/blog/building-a-svelte-chat-app-with-stream/)
 - 2019/07/02 [Supercharge Your Svelte State Management with Akita](https://netbasal.com/supercharge-your-svelte-state-management-with-akita-f1f9de5ef43d)
@@ -88,3 +89,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - SPA : Single Page Application
 - SEO : Search Engine Optimization : SSR
 
+### Commands
+```
+$ npx degit sveltejs/template svelte-with-sass
+```
