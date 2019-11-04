@@ -7,6 +7,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - 2019/10/23 [What I Like About Writing Styles with Svelte](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/)
 - 2019/10/21 [Working with events in Svelte](https://flaviocopes.com/svelte-events/)
 - 2019/10/16 [Svelte vs React: First impressions](https://medium.com/javascript-in-plain-english/svelte-vs-react-first-impression-1ce5d3ee6889)
+- 2019/09/29 [migrating to Sapper part 3 - RSS feed](https://lacourt.dev/2019/06/29)
 - 2019/09/29 [SvelteJS(스벨트) - 새로운 개념의 프론트엔드 프레임워크(updated)](https://heropy.blog/2019/09/29/svelte/)
 - 2019/09/24 [How to build a simple Svelte JS app](https://blog.logrocket.com/how-to-build-a-simple-svelte-js-app/) with example ☑️
     - [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte)
@@ -29,6 +30,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 
 
 ### Information
+- [Svelte - Wikipedia](https://en.wikipedia.org/wiki/Svelte)
 - [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps: [REPL](https://svelte.dev/repl)
 - [Svelte Native](https://svelte-native.technology/) - The Svelte Mobile Development Experience
 - [Sapper](https://sapper.svelte.dev/) - The next small thing in web development
@@ -48,6 +50,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [The Top 33 Svelte Open Source Projects](https://awesomeopensource.com/projects/svelte)
 - [Best of JavaScript Weekly Rankings](https://weekly.bestofjs.org/)
 - [The truth about Svelte](https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934)
+- [Real reactive programming in Svelte 3.0](https://weekly-geekly.github.io/articles/453458/index.html)
 
 
 ### Open Source
