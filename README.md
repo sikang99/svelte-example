@@ -36,7 +36,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 
 ### Information
 - [Svelte - Wikipedia](https://en.wikipedia.org/wiki/Svelte)
-- [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps: [REPL](https://svelte.dev/repl)
+- [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps: [*REPL*](https://svelte.dev/repl)
 - [Svelte Native](https://svelte-native.technology/) - The Svelte Mobile Development Experience
 - [Sapper](https://sapper.svelte.dev/) - The next small thing in web development
 - [Svelte GL](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
