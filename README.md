@@ -8,7 +8,6 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - 2019/10/21 [Working with events in Svelte](https://flaviocopes.com/svelte-events/)
 - 2019/10/16 [Svelte vs React: First impressions](https://medium.com/javascript-in-plain-english/svelte-vs-react-first-impression-1ce5d3ee6889)
 - 2019/09/29 [migrating to Sapper part 3 - RSS feed](https://lacourt.dev/2019/06/29)
-- 2019/09/29 [SvelteJS(스벨트) - 새로운 개념의 프론트엔드 프레임워크(updated)](https://heropy.blog/2019/09/29/svelte/)
 - 2019/09/24 [How to build a simple Svelte JS app](https://blog.logrocket.com/how-to-build-a-simple-svelte-js-app/) with example ☑️
     - [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte)
 - 2019/08/29 [Svelte: Is This Next-Generation JavaScript Framework Production-Ready?](https://www.credera.com/blog/technology-solutions/svelte-is-this-next-generation-javascript-framework-production-ready/)
@@ -27,6 +26,11 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - 2019/05/06 [Svelte 3 Front-End Framework Moves Reactivity into the JavaScript Language, Q&A with Rich Harris](https://www.infoq.com/news/2019/05/svelte-3-interview-rich-harris/)
 - 2019/04/26 [Svelte Web component framework](https://forum.safedev.org/t/svelte-web-component-framework/2483)
 - 2019/03/19 [Why SvelteJS may be the best framework for new web devs](https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i)
+
+
+### History (국내상황)
+- 2019/10/04 [svelte가 빠른 이유](https://velog.io/@vnthf/svelte%EA%B0%80-%EB%B9%A0%EB%A5%B8-%EC%9D%B4%EC%9C%A0)
+- 2019/09/29 [SvelteJS(스벨트) - 새로운 개념의 프론트엔드 프레임워크(updated)](https://heropy.blog/2019/09/29/svelte/)
 
 
 ### Information
