@@ -47,6 +47,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [**Svelte Status**](http://www.sveltestatus.com/)
 - [The Top 33 Svelte Open Source Projects](https://awesomeopensource.com/projects/svelte)
 - [Best of JavaScript Weekly Rankings](https://weekly.bestofjs.org/)
+- [The truth about Svelte](https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934)
 
 
 ### Open Source
@@ -70,7 +71,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 
 
 ### Books
-- [Quick Guide for Svelte 3](https://leanpub.com/sveltequickguide)
+- [Quick Guide for Svelte 3](https://leanpub.com/sveltequickguide) - writing, not publsihed
 
 
 ### Versions
