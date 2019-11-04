@@ -77,8 +77,9 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [ ] [Svelte - Simplicity is best](https://dev.to/dbshanks/svelte-simplicity-is-best-1e5h)
 
 
-### Books
+### Eudcation: Books & Videos
 - [Quick Guide for Svelte 3](https://leanpub.com/sveltequickguide) - writing, not publsihed
+- [Svelte.js - The Complete Guide](https://www.udemy.com/course/sveltejs-the-complete-guide/)
 
 
 ### Versions
