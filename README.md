@@ -69,6 +69,10 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [ ] [Svelte - Simplicity is best](https://dev.to/dbshanks/svelte-simplicity-is-best-1e5h)
 
 
+### Books
+- [Quick Guide for Svelte 3](https://leanpub.com/sveltequickguide)
+
+
 ### Versions
 - node: 12.8.0
 - npx/npm: 6.11.3
@@ -92,4 +96,5 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 ### Commands
 ```
 $ npx degit sveltejs/template svelte-with-sass
+$ npm -i -g degit
 ```
