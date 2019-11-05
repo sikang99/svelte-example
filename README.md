@@ -4,6 +4,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 
 
 ### History
+- 2019/10/24 [Build a fast reactive blog with Svelte and Sapper](https://www.creativebloq.com/how-to/svelte-and-sapper)
 - 2019/10/23 [What I Like About Writing Styles with Svelte](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/)
 - 2019/10/21 [Working with events in Svelte](https://flaviocopes.com/svelte-events/)
 - 2019/10/16 [Svelte vs React: First impressions](https://medium.com/javascript-in-plain-english/svelte-vs-react-first-impression-1ce5d3ee6889)
@@ -56,6 +57,10 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [Best of JavaScript Weekly Rankings](https://weekly.bestofjs.org/)
 - [The truth about Svelte](https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934)
 - [Real reactive programming in Svelte 3.0](https://weekly-geekly.github.io/articles/453458/index.html)
+
+
+### Stackoverflow
+- [How answers tagged for svelte](https://stackoverflow.com/tags/svelte/hot?filter=month)
 
 
 ### Open Source
