@@ -57,6 +57,8 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [Best of JavaScript Weekly Rankings](https://weekly.bestofjs.org/)
 - [The truth about Svelte](https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934)
 - [Real reactive programming in Svelte 3.0](https://weekly-geekly.github.io/articles/453458/index.html)
+- [Hacker News clone using svelte](https://hn.svelte.dev/top/1)
+- [made with Svelte](https://madewithsvelte.com/)
 
 
 ### Stackoverflow
@@ -72,6 +74,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Compile Svelte components with Rollup
 - [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
+- [pngwn/svelte-test](https://github.com/pngwn/svelte-test) - Testing utilities for Svelte
 
 
 ### Open Source (examples)
