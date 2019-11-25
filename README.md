@@ -9,6 +9,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - 2019/10/21 [Working with events in Svelte](https://flaviocopes.com/svelte-events/)
 - 2019/10/16 [Svelte vs React: First impressions](https://medium.com/javascript-in-plain-english/svelte-vs-react-first-impression-1ce5d3ee6889)
 - 2019/09/29 [migrating to Sapper part 3 - RSS feed](https://lacourt.dev/2019/06/29)
+- 2019/09/28 [Svelte 3 — Simplicity and Reactivity](https://medium.com/@miguelpeter2/svelte-3-simplicity-and-reactivity-46a78106ab79)
 - 2019/09/24 [How to build a simple Svelte JS app](https://blog.logrocket.com/how-to-build-a-simple-svelte-js-app/) with example ☑️
     - [Ekwuno/Book-app-svelte](https://github.com/Ekwuno/Book-app-svelte)
 - 2019/08/29 [Svelte: Is This Next-Generation JavaScript Framework Production-Ready?](https://www.credera.com/blog/technology-solutions/svelte-is-this-next-generation-javascript-framework-production-ready/)
@@ -76,6 +77,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 - [pngwn/svelte-test](https://github.com/pngwn/svelte-test) - Testing utilities for Svelte
 - [beyonk-adventures/svelte-social-auth](https://github.com/beyonk-adventures/svelte-social-auth) - Social Auth for Svelte v3
+- [testing-library/svelte-testing-library](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices
 
 
 ### Open Source (examples)
