@@ -75,6 +75,7 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [ayoisaiah/svelte-stream-chat](https://github.com/ayoisaiah/svelte-stream-chat)
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 - [pngwn/svelte-test](https://github.com/pngwn/svelte-test) - Testing utilities for Svelte
+- [beyonk-adventures/svelte-social-auth](https://github.com/beyonk-adventures/svelte-social-auth) - Social Auth for Svelte v3
 
 
 ### Open Source (examples)
