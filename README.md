@@ -78,6 +78,8 @@ Thanks [Rich Harris](https://github.com/Rich-Harris)
 - [pngwn/svelte-test](https://github.com/pngwn/svelte-test) - Testing utilities for Svelte
 - [beyonk-adventures/svelte-social-auth](https://github.com/beyonk-adventures/svelte-social-auth) - Social Auth for Svelte v3
 - [testing-library/svelte-testing-library](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices
+- [Conduitry/svelte-tiny-spa](https://github.com/Conduitry/svelte-tiny-spa) - A tiny unframework for making SPAs in Svelte
+
 
 
 ### Open Source (examples)
